@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context=".RegisterActivity">
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WELCOME !"
+        android:textColor="@color/primaryColor"
+        android:textSize="30dp"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="20dp"
+        />
+
+    <TextView
+        android:id="@+id/newAcc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create a new account"
+        android:layout_below="@+id/welcome"
+        android:textColor="@color/primaryColor"
+        android:textSize="20dp"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginTop="1dp"
+        android:layout_marginLeft="20dp"
+        />
+
+    <EditText
+        android:id="@+id/edt_username"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/input_shape"
+        android:textColorHint="@color/gray"
+        android:textSize="18dp"
+        android:fontFamily="sans-serif"
+        android:hint="Username"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/edt_email"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/input_shape"
+        android:textColorHint="@color/gray"
+        android:textSize="18dp"
+        android:fontFamily="sans-serif"
+        android:hint="Email"
+        android:paddingLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/edt_password"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/input_shape"
+        android:textColorHint="@color/gray"
+        android:textSize="18dp"
+        android:inputType="textPassword"
+        android:fontFamily="sans-serif"
+        android:hint="Password"
+        android:paddingLeft="20dp"/>
+
+
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_below="@+id/logo"
+        android:hint="REGISTER"
+        android:layout_marginTop="100dp"
+        android:width="320dp"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="@color/white"
+        android:textSize="18dp"
+        android:fontFamily="sans-serif-black"
+        android:background="@drawable/button_shape"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Already have an account?"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textSize="15sp"
+            android:textColor="@color/primaryColor"
+            android:layout_marginLeft="3dp"
+            android:fontFamily="sans-serif"
+
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

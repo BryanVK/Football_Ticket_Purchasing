@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/tiket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:text="TICKET"/>
+    <TextView
+        android:id="@+id/Match"
+        android:text="Headline"
+        style="@style/TextAppearance.AppCompat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/primaryColor"
+        android:layout_below="@id/tiket"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/Date"
+        android:text="Date"
+        style="@style/TextAppearance.AppCompat"
+        android:textSize="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_below="@+id/Match" />
+
+</RelativeLayout>

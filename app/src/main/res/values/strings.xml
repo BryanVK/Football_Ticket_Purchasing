@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Football Club</string>
+    <string name="Profile">Profile</string>
+    <string name="Logout">Logout</string>
+    <string name="Cart">Cart</string>
+
+    <string-array name="data_headline">
+        <item>BINUS FC Kembali Melawan PERSIJA</item>
+        <item>Kekalahan BINUS FC</item>
+        <item>Liga Mahasiswa Kembali</item>
+        <item>Politik Bola di Club</item>
+        <item>Perkembangan BINUS FC</item>
+        <item>Kemenangan Telak</item>
+        <item>Bola Panas BINUS</item>
+        <item>LIGA Mahasiswa</item>
+        <item>Kekurangan BINUS FC</item>
+        <item>Kemenangan yang Syahdu</item>
+        <item>Bola Panas di LIGA</item>
+        <item>LIGA BINUS</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Bermain di Stadion Municipal de Motilivi pada Rabu (26/4/2023) dini hari WIB, Madrid tunduk dari gol-gol yang dicetak Taty Castellanos. Pemain 24 tahun itu memborong empat gol ke gawang Real Madrid.Sementara, Madrid hanya mampu membalas dua gol lewat aksi Vinicius Junior dan Lucas Vazquez. Real Madrid kalah dengan skor 4-2.Real Madrid tertahan di posisi kedua klasemen La Liga dengan 65 poin. Los Blancos tertinggal 11 poin dari Barcelona yang ada di puncak klasemen. Yuk simak ulasan lengkapnya di bawah ini ya Bolaneters.</item>
+        <item>Bursa transfer pemain sepak bola di Indonesia mulai memanas.Rumor perpindahan pemain banyak diperbincangkan di media sosial.Beberapa tim pun mulai bergerak mencari pemain incarannya untuk kompetisi musim depan.Begitu juga Arema FC, yang kini mulai melakukan negosiasi kepada sejumlah pemain."Kami masih melakukan negosiasi dengan sejumlah pemain," ujar Pelatih Arema FC, Joko Susilo kepada Tribun Jatim Network.Beberapa pemainpun diisukan akan berlabuh ke tim</item>
+        <item>Pertama berita mengenai deretan pemain asing yang rumornya berlabuh ke Arema FC. Ada juga berita pelatih Persebaya Surabaya, Aji Santoso bicara soal visi permainan tim yang akan ia terapkan musim mendatangSelanjutnya berita tentang nasib Shin Tae Yong sebagai pelatih Timnas Indonesia.Penasaran berita bola terpopuler hari ini, Jumat 21 April 2023?Yuk simak selengkapnya di bawah ini, rangkuman TribunJatim.com.</item>
+        <item>Pertama berita mengenai sinyal Arkhan Fikri bertahan di Arema FC untuk musim depan.Selanjutnya berita pelatih caretaker Madura United, Rakhmad Basuki mengacungi jempol kelincahan bermain sejumlah pemain muda Madura United.Ada juga berita mengenai tutup kompetisi Liga 1 2022 dengan happy ending, Persebaya Surabaya memastikanfinis di posisi enam klasemen akhir dengan 52 poin.</item>
+        <item>Arkhan Fikri mengungkapkan sinyal bertahan di Arema FC untuk musim depan.Pemain 18 tahun itu menyampaikan, dirinya masih ingin berkontribusi lebih untuk Arema FC."Saya masih memiliki target pribadi. Yakni bisa bermain reguler dulu di tim, dan bisa berpengaruh di tim agar bisa membuat assist dan mencetak gol," ucapnya kepada Tribun Jatim Network.Kontrak Arkhan Fikri bersama Arema FC masih menyisakan empat musim.Gelandang Timnas Indonesia U-20 itu masih menjalani kontrak semusim bersama Singo Edan.Di kompetisi Liga 1 musim ini, Arkhan Fikri total telah bermain selama 16 kali bersama Arema FC.</item>
+        <item>Pertama berita mengenai para pemain Timnas Indonesia tidak mudik selama libur Lebaran Idul Fitri 2023. Ada juga berita PSIS Semarang ancang-ancang bidik sejumlah pemain setelah berakhirnya Liga 1 2022-2023. Incar palang pintu Arema FC, Bagas Adi. Selanjutnya Arema FC nampaknya tidak akan berlama-lama dengan libur Lebaran tahun ini usai kompetisi Liga 1 2022-2023 berakhir.</item>
+        <item>Selama libur Lebaran Idul Fitri 2023, para pemain Timnas Indonesia tidak mudik.Mereka sepakat untuk tetap berada di pusat pelatihan, demi memaksimalkan latihan menjelang SEA Games 2023 di Kamboja.Hal itu seperti dikatakan Manajer Timnas Indonesia, Sumardji.Baca juga: Kontrak Segera Habis, Bagaimana Nasib Shin Tae Yong Bersama Timnas Indonesia?“Semua pemain tetap di pusat pelatihan di Jakarta. Para pemain sepakat tidak mengambil cuti atau libur Lebaran,” kata Sumardji, Kamis (20/4/2023).Bukan hanya pemain, tim pelatih dan semua yang terlibat dalam pemusatan latihan juga tidak mudik.Semua tetap menjalankan aktivitas seperti biasa di pusat pelatihan.“Sesuai arahan Ketua Umum PSSI, keluarga dari para pemain semuanya akan dibawa ke Jakarta. Kita fasilitasi tiket dan hotel di sana,” lanjutnya.</item>
+        <item>Sebanyak empat berita Bola Lokal di segmen berita bola terpopuler menjadi perhatian pembaca TribunJatim.com sepanjang hari ini, Senin 24 April 2023.Pertama adalah soal Pelatih Persebaya Surabaya, Aji Santoso yang menikmati libur dengan tenang.Pasalnya, rancangan kerangka tim musim depan nyaris rampung. Ia menyebut komposisi tim untuk musim depan sudah terbentuk sekitar 80 persen.Lebih dari separuh pemain lama dipertahankan karena 70 persen merupakan penggawa Liga 1 2022-2023.Aji Santoso mengakui dirinya belajar dari pengalaman musim lalu. Dengan skuad rancangan ini, ia berusaha mewujudkan target manajemen Persebaya untuk membawa tim juara musim 2023-24.</item>
+        <item>Perburuan pemain dilakukan lebih awal. Harapannya, persiapan tim menghadapi musim depan semakin matang. a tidak mau mengulang musim sebelumnya di mana Persebaya mengalami bedol desa dan nyaris mengganti seluruhan komposisi tim. Ini membuatnya seperti membangun kerangka tim dari awal. Kemudian, soal Manchester United yang menantang Manchester City di partai final Piala FA usai menyingkirkan Brighton and Hove Albion pada babak semifinal di Stadion Wembley, London, Minggu waktu setempat.</item>
+        <item>Artikel ini telah tayang di TribunJatim.com dengan judul BOLA TERPOPULER: Kerangka Persebaya Musim Depan - Manchester United Tantang Manchester City di Final, https://jatim.tribunnews.com/2023/04/24/bola-terpopuler-kerangka-persebaya-musim-depan-manchester-united-tantang-manchester-city-di-final.</item>
+        <item>Duel yang berlangsung di Stadion Spotify Camp Nou pada Minggu (23/4/2023) malam WIB itu berakhir dengan kedudukan 1-0 untuk kemenangan tuan rumah.Kemenangan di jornada 30 Liga Spanyol ini membuat Barcelona memperlebar jarak dengan Real Madrid. Blaugrana pun meninggalkan Los Blancos dengan selisih 11 poin di Liga Spanyol 2022-2023. Dilansir BolaSport.com dari laman resmi LaLiga, Barcelona mendominasi penguasaan bola dengan mencatatkan angka 62,8 persen.</item>
+        <item>Selain itu, Barcelona juga mampu melepaskan 13 tembakan dengan empat di antaranya mengarah tepat ke gawang Atletico Madrid.</item>
+    </string-array>
+
+    <string-array name="data_date">
+        <item>20-02-2023</item>
+        <item>22-02-2023</item>
+        <item>23-02-2023</item>
+        <item>24-02-2023</item>
+        <item>25-02-2023</item>
+        <item>26-02-2023</item>
+        <item>27-02-2023</item>
+        <item>28-02-2023</item>
+        <item>29-02-2023</item>
+        <item>30-02-2023</item>
+        <item>30-02-2023</item>
+        <item>30-02-2023</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/photo1</item>
+        <item>@drawable/photo2</item>
+        <item>@drawable/photo3</item>
+        <item>@drawable/photo4</item>
+        <item>@drawable/photo5</item>
+        <item>@drawable/photo6</item>
+        <item>@drawable/photo1</item>
+        <item>@drawable/photo2</item>
+        <item>@drawable/photo3</item>
+        <item>@drawable/photo4</item>
+        <item>@drawable/photo5</item>
+        <item>@drawable/photo6</item>
+    </string-array>
+
+    <string-array name="data_schedule">
+        <item>20-02-2023 / 10:00 WIB</item>
+        <item>25-02-2023 / 15:00 WIB</item>
+        <item>30-02-2023 / 17:00 WIB</item>
+        <item>01-03-2023 / 07:00 WIB</item>
+
+    </string-array>
+
+    <string-array name="data_match">
+        <item>BINUS FC VS UNPAR FC</item>
+        <item>BINUS FC VS TRISAKTI FC</item>
+        <item>BINUS FC VS UPH FC</item>
+        <item>BINUS FC VS ITB FC</item>
+    </string-array>
+
+    <string-array name="data_photo_match">
+        <item>@drawable/match1</item>
+        <item>@drawable/match2</item>
+        <item>@drawable/match3</item>
+        <item>@drawable/match4</item>
+    </string-array>
+
+
+</resources>
